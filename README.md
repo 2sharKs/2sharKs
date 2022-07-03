@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2sharKs
 - 👀 I’m interested in Web and Android Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me : boii2sharks@gmail.com
 
